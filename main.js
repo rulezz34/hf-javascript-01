@@ -30,4 +30,4 @@ if (jegyTipus === "Diák") {
 }
 
 // Eredmény kiíratása konzolba
-console.log(eredmeny + " Ft-ba fog kerülni.");
+alert(eredmeny + " Ft-ba fog kerülni.");
